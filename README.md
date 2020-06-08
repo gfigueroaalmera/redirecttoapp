@@ -6,4 +6,4 @@ Almera Aplicacion Android Encuestas
 
 IPad 
 
-$50.000
+$66.000
